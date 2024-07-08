@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8ee3872dd06e7db499c2261d27329e81
+  - enabled: 1
+    path: Assets/Scenes/Past Rooms/Hallway.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Past Rooms/Kitchen.unity
+    guid: bf3b876fc0fab76499f77f29159f0545
+  - enabled: 1
+    path: Assets/Scenes/Past Rooms/Study.unity
+    guid: 4ec2eb9b0c6ce3f4d84115138e3c8c85
+  - enabled: 1
+    path: Assets/Scenes/Past Rooms/Bathroom.unity
+    guid: 35f2cb2eec159674d8c9d37a1a9228ec
+  - enabled: 1
+    path: Assets/Scenes/Past Rooms/Livingroom.unity
+    guid: 5c2e1cc301adcf249a8e4ea88b8acb04
+  - enabled: 1
+    path: Assets/Scenes/Past Rooms/AIBedroom.unity
+    guid: 7365524b087984c4498bfab2dfd729b7
+  - enabled: 1
+    path: Assets/Scenes/Past Rooms/MPBedroom.unity
+    guid: 5ac7121cb2d84ac4684d32fea3f70dc5
+  - enabled: 1
+    path: Assets/Scenes/Future Rooms/FutAIBedroom.unity
+    guid: 6a0ee022fbb30aa40bc068c0e0af9d5d
+  - enabled: 1
+    path: Assets/Scenes/Future Rooms/FutBathroom.unity
+    guid: bdf0516197d6e644998b9c7451de994b
+  - enabled: 1
+    path: Assets/Scenes/Future Rooms/FutHallway.unity
+    guid: 8e17c768934a63a4ca1d5d867b9d1f59
+  - enabled: 1
+    path: Assets/Scenes/Future Rooms/FutKitchen.unity
+    guid: 6cbbf9b9c81767640ab55739d7ea144d
+  - enabled: 1
+    path: Assets/Scenes/Future Rooms/FutLivingroom.unity
+    guid: 4a21d2adbfe8ce3428631581efb46732
+  - enabled: 1
+    path: Assets/Scenes/Future Rooms/FutMPBedroom.unity
+    guid: 29b15607956020d43b5f8110369f850b
+  - enabled: 1
+    path: Assets/Scenes/Future Rooms/FutStudy.unity
+    guid: 3e7d64fd6c8d32c46bd8f1bc4ab51885
+  - enabled: 1
+    path: Assets/Scenes/Game Won.unity
+    guid: 203456a4a5c5faf4f89ec0a69ca5eb28
+  m_configObjects: {}
